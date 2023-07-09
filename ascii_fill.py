@@ -1,5 +1,4 @@
 # Moses Muwanga
-# https://web.archive.org/web/20191205024932/http://people.scs.carleton.ca/~arunka/courses/comp1405/assignments/a5/
 
 
 def readLevel(n):
